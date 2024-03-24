@@ -1,0 +1,13 @@
+{
+  "Home": {
+
+  },
+  "Navbar": {
+    "about": "<About />",
+    "experience": "<Experience />",
+    "projects": "<Projects />"
+  },
+  "About": {
+    "hello": "Hello there!, I'm"
+  }
+}
